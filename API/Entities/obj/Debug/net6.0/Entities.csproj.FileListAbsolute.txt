@@ -1,0 +1,12 @@
+D:\FemCoders\CodeRview\coderview-back\API\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\FemCoders\CodeRview\coderview-back\API\Entities\bin\Debug\net6.0\Entities.dll
+D:\FemCoders\CodeRview\coderview-back\API\Entities\bin\Debug\net6.0\Entities.pdb
+D:\FemCoders\CodeRview\coderview-back\API\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\FemCoders\CodeRview\coderview-back\API\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\FemCoders\CodeRview\coderview-back\API\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\FemCoders\CodeRview\coderview-back\API\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\FemCoders\CodeRview\coderview-back\API\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\FemCoders\CodeRview\coderview-back\API\Entities\obj\Debug\net6.0\Entities.dll
+D:\FemCoders\CodeRview\coderview-back\API\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\FemCoders\CodeRview\coderview-back\API\Entities\obj\Debug\net6.0\Entities.pdb
+D:\FemCoders\CodeRview\coderview-back\API\Entities\obj\Debug\net6.0\ref\Entities.dll

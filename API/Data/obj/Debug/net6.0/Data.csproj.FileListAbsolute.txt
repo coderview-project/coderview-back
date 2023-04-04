@@ -1,0 +1,17 @@
+D:\FemCoders\CodeRview\coderview-back\API\Data\bin\Debug\net6.0\Data.deps.json
+D:\FemCoders\CodeRview\coderview-back\API\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\FemCoders\CodeRview\coderview-back\API\Data\bin\Debug\net6.0\Data.dll
+D:\FemCoders\CodeRview\coderview-back\API\Data\bin\Debug\net6.0\Data.pdb
+D:\FemCoders\CodeRview\coderview-back\API\Data\bin\Debug\net6.0\Entities.dll
+D:\FemCoders\CodeRview\coderview-back\API\Data\bin\Debug\net6.0\Entities.pdb
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\Data.dll
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\refint\Data.dll
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\Data.pdb
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\FemCoders\CodeRview\coderview-back\API\Data\obj\Debug\net6.0\ref\Data.dll
