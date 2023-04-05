@@ -23,6 +23,7 @@ namespace API.Controllers
 
             var userItem = new UserItem();
             userItem.Name = newUserRequestModel.UserData.Name;
+            userItem.LastName = newUserRequestModel.UserData.LastName;
             userItem.Email = newUserRequestModel.UserData.Email;
             userItem.Password = newUserRequestModel.UserData.Password;
             userItem.IsActive = newUserRequestModel.UserData.IsActive;

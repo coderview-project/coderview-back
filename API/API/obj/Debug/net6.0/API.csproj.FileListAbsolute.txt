@@ -8,10 +8,12 @@ D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\API.pdb
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Azure.Core.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Azure.Identity.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Humanizer.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
@@ -22,6 +24,7 @@ D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Extensi
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
@@ -40,9 +43,11 @@ D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Identit
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Mono.TextTemplating.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\System.CodeDom.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\System.Drawing.Common.dll
 D:\FemCoders\CodeRview\coderview-back\API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
