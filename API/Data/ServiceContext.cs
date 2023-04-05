@@ -25,7 +25,6 @@ namespace Data
                 file.ToTable("t_files");
             });
 
-           
         }
     }
     public class ServiceContextFactory : IDesignTimeDbContextFactory<ServiceContext>
