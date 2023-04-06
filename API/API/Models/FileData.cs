@@ -1,9 +1,15 @@
-﻿namespace API.Models
+﻿using API.Attributes;
+
+namespace API.Models
 {
     public class FileData
        {
-           public string FileName { get; set; }
-           public string Base64FileContent { get; set; }
+
+        [FileExtension(FileType.Image)]
+        [FileWeight(1024)]
+        public string FileName { get; set; }
+        public string Base64FileContent { get; set; }
+
        }
     
 }
