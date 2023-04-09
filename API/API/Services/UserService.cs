@@ -23,8 +23,7 @@ namespace API.Services
 
         int IUserService.PostUser(UserItem userItem)
         {
-            _serviceContext.Users.Add(userItem);
-            _serviceContext.SaveChanges();
+            _userLogic.PostUser(userItem);
             return userItem.Id;
         }
 

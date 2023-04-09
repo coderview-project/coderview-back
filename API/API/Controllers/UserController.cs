@@ -1,9 +1,13 @@
 ﻿
 using API.IServices;
 using API.Models;
+using Data;
 using Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
+using Microsoft.Data.SqlClient;
+using System.Security.Cryptography;
+using System.Text;
 
 namespace API.Controllers
 {
@@ -21,16 +25,38 @@ namespace API.Controllers
         }
 
         [HttpPost(Name = "PostUser")]
-        public int PostUser([FromBody] NewUserRequestModel newUserRequestModel)
+        public int PostUser(UserItem userItem)
         {
-
-            var userItem = new UserItem();
-            userItem.Name = newUserRequestModel.UserData.Name;
-            userItem.LastName = newUserRequestModel.UserData.LastName;
-            userItem.Email = newUserRequestModel.UserData.Email;
-            userItem.Password = newUserRequestModel.UserData.Password;
-            userItem.IsActive = newUserRequestModel.UserData.IsActive;
+           
+            if(userItem.Password == userItem.ConfirmPassword)
+            {
+                userItem.Password = ConvertToSha256(userItem.Password);
+                userItem.ConfirmPassword = ConvertToSha256(userItem.ConfirmPassword);
+            }
             return _userService.PostUser(userItem);
+        }
+
+        public static string ConvertToSha256(string text)
+        {
+            StringBuilder Sb = new StringBuilder();
+            using (SHA256 hash = SHA256Managed.Create())
+            {
+                Encoding enc = Encoding.UTF8;
+                byte[] result = hash.ComputeHash(enc.GetBytes(text));
+                foreach (byte b in result)
+                {
+                    Sb.Append(b.ToString("x2"));
+                }
+                return Sb.ToString();
+            }
+        }
+
+        [HttpPost(Name = "Login")]
+        public ActionResult Login(UserItem userItem)
+        {
+            userItem.Password = ConvertToSha256(userItem.Password);
+            
+
         }
 
         [HttpGet(Name = "GetAllUsers")]
