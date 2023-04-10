@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj": {}
+    "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Data\\Data.csproj": {}
   },
   "projects": {
-    "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj": {
+    "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\evama\\.nuget\\packages\\",
-        "outputPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\obj\\",
+        "projectPath": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Ponyo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\evama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ponyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj"
+              "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Entities\\Entities.csproj"
               }
             }
           }
@@ -50,7 +50,6 @@
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.4, )"
             },
@@ -59,8 +58,6 @@
               "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.4, )"
             },
@@ -89,21 +86,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj": {
+    "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\evama\\.nuget\\packages\\",
-        "outputPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Ponyo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\evama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ponyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,7 +141,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

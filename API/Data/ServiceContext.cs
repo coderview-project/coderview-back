@@ -10,6 +10,7 @@ namespace Data
     {
         public ServiceContext(DbContextOptions<ServiceContext> options) : base(options) { }
         public DbSet<UserItem> Users { get; set; }
+        public DbSet<BootcampItem> Bootcamp { get; set; }
         
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -20,6 +21,10 @@ namespace Data
                
             });
 
+            builder.Entity<BootcampItem>(bootcamp =>
+            {
+                bootcamp.ToTable("t_bootcamp");
+            });
            
         }
     }

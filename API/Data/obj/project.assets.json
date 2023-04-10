@@ -49,7 +49,7 @@
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/_._": {
+          "lib/net6.0/Humanizer.dll": {
             "related": ".xml"
           }
         },
@@ -424,7 +424,7 @@
           "System.Text.Json": "7.0.0"
         },
         "compile": {
-          "lib/net6.0/_._": {
+          "lib/net6.0/Microsoft.Extensions.DependencyModel.dll": {
             "related": ".xml"
           }
         },
@@ -782,7 +782,7 @@
           "System.CodeDom": "4.4.0"
         },
         "compile": {
-          "lib/netstandard2.0/_._": {}
+          "lib/netstandard2.0/Mono.TextTemplating.dll": {}
         },
         "runtime": {
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
@@ -800,7 +800,7 @@
       "System.CodeDom/4.4.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/_._": {
+          "ref/netstandard2.0/System.CodeDom.dll": {
             "related": ".xml"
           }
         },
@@ -3815,19 +3815,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\evama\\.nuget\\packages\\": {}
+    "C:\\Users\\Ponyo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj",
-      "packagesPath": "C:\\Users\\evama\\.nuget\\packages\\",
-      "outputPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\obj\\",
+      "projectPath": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Data\\Data.csproj",
+      "packagesPath": "C:\\Users\\Ponyo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\evama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ponyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3841,8 +3841,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj"
+            "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Ponyo\\Desktop\\FEMCODERS\\CodeRview\\API\\Entities\\Entities.csproj"
             }
           }
         }
@@ -3863,7 +3863,6 @@
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.4, )"
           },
@@ -3872,8 +3871,6 @@
             "version": "[7.0.4, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.4, )"
           },
@@ -3902,7 +3899,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
