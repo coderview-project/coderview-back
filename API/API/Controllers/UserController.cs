@@ -51,14 +51,6 @@ namespace API.Controllers
             }
         }
 
-        [HttpPost(Name = "Login")]
-        public ActionResult Login(UserItem userItem)
-        {
-            userItem.Password = ConvertToSha256(userItem.Password);
-            
-
-        }
-
         [HttpGet(Name = "GetAllUsers")]
         public List<UserItem> GetAllUsers()
         {
