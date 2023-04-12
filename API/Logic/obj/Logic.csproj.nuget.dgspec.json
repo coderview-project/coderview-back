@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Logic\\Logic.csproj": {}
+    "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Logic\\Logic.csproj": {}
   },
   "projects": {
-    "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj": {
+    "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\evama\\.nuget\\packages\\",
-        "outputPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\obj\\",
+        "projectPath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\evama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj"
+              "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Entities\\Entities.csproj"
               }
             }
           }
@@ -87,21 +87,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj": {
+    "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\evama\\.nuget\\packages\\",
-        "outputPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\evama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,21 +142,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Logic\\Logic.csproj": {
+    "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Logic\\Logic.csproj",
+        "projectUniqueName": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Logic\\Logic.csproj",
-        "packagesPath": "C:\\Users\\evama\\.nuget\\packages\\",
-        "outputPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Logic\\obj\\",
+        "projectPath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\evama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,11 +170,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj": {
-                "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Data\\Data.csproj"
+              "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Data\\Data.csproj"
               },
-              "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj"
+              "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Entities\\Entities.csproj"
               }
             }
           }
@@ -210,7 +210,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

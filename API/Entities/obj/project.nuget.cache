@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AAHfDZSvt1GMfofksY1MHnomg9bZwiphKjvXPz0zQuD8pW0kU8h26O4P8uo8AuKTcb2UGs7Y+/KUazkbnLFNZA==",
+  "dgSpecHash": "i1R8+eYsw7ZG9oBIfyb8FX9LgnBmhwcGIbrFyJ0uAd3T5m/aSYsNx+bOtr4TREgHdoVPljyvONwNYq0Xtt+Ibg==",
   "success": true,
-  "projectFilePath": "D:\\FemCoders\\CodeRview\\coderview-back\\API\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Diana\\Desktop\\coderview-proyect-back\\coderview-back\\API\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
